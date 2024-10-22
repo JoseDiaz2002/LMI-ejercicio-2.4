@@ -1,0 +1,63 @@
+{
+    "cartellera": [
+        {
+            "Pelicula": "inspecion",
+            "idioma": "ingles",
+            "Director": "Christopher Nolan",
+            "Durada": 148,
+            "reparto": {
+                "actores": [
+                    {
+                        "protagonista": true,
+                        "nombre": "Leonardo Dicarpio",
+                        "personaje": "Dom cobb"
+                    },
+                    {
+                        "protagonistas": false,
+                        "nombre": "Joseph Gordon-levitt",
+                        "personaje": "Arthur"
+                    }
+                ]
+            },
+            "premios": {
+                "premio1": "Oscar al mejor efecto visual",
+                "premio2": "Oscar al mejor sonido"
+            },
+            "fotos": {
+                "foto tipo": "inspepción_poster.jpg",
+                "premio tipo": "inception_scene1.jpg"
+            }
+        },
+        {
+            "Pelicula": "la dolce vita",
+            "idioma": "italiano",
+            "Director": "Federico Fellini",
+            "Durada": 174,
+            "reparto": {
+                "actores": [
+                    {
+                        "protagonista": true,
+                        "nombre": "Marcello Mastroianni",
+                        "personaje": "Marcello Rubini"
+                    },
+                    {
+                        "protagonistas": false,
+                        "nombre": "Anita Ekberg",
+                        "personaje": "Silvia"
+                    }
+                ]
+            },
+
+            "premios":{
+                    "premio": "Palma d'Or al Festival de Cannes"
+            },
+            
+
+            "fotos": {
+                    "foto1": "ladolcevita_poster.jpg",
+                    "foto2": "ladolcevita_scene1.jpg"
+            }
+
+        }
+        ]   
+    }
